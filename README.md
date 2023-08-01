@@ -26,8 +26,7 @@ object **Lucas Hideki** {
 '## Contato
 
 - [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/lucas-hideki-tobaro-barbeiro-955234100/))
-- [E-mail](lucashidekitb@gmail.com)
-- [Website ou Portfólio](https://www.seusite.com)}'
+- [E-mail](lucashidekitb@gmail.com)'
 ```
 ## **Linguagens e Ferramentas:**  
 
