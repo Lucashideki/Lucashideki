@@ -3,8 +3,7 @@ object **Lucas Hideki** {
  val name = "Lucas Hideki Tobaro Barbeiro"
  val learing = listOf("PHP", "Angular", "SQL") 
  
- val primarySkillset = listOf("Trabalho em equipe", "Comprometimento", "Autodidata")
- val languages = listOf("HTML", "Sass", "JavaScript") 
+ val primarySkillset = listOf("eGestão de Stakeholders", "Análise de Dados e Métricas", "Análise de Dados e Métricas", "Resolução de Problemas Complexos", "Visão de Negócio")
 }
 ```
 ## **Linguagens e Ferramentas:**  
